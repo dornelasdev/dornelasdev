@@ -10,7 +10,7 @@ Currently learning **Go** through security-focused projects and following develo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornelasdev&repo=mitre-explorer&theme=chartreuse-dark&hide_border=false&v=1)](https://www.github.com/dornelasdev/mitre-explorer)
 
-- 🔎 Practicing detection, analysis, and incident investigation through hands-on labs on <a href="(https://tryhackme.com/p/dornelasdev)">TryHackMe</a><img src="https://cdn.simpleicons.org/tryhackme/white" width="20" style="vertical-align: middle; margin-left: 6px;" />
+- 🔎 Practicing detection, analysis, and incident investigation through hands-on labs on <a href="https://tryhackme.com/p/dornelasdev">TryHackMe</a><img src="https://cdn.simpleicons.org/tryhackme/white" width="20" style="vertical-align: middle; margin-left: 6px;" />  
 **140+ rooms completed (Pre-Security, Security 101, SOC L1), including Red Team fundamentals.**
 - 🛠️ Applying detection and analysis concepts through custom tools and hands-on workflows.
 
