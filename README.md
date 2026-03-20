@@ -1,21 +1,23 @@
 ## whoami
 
-Self-directed cybersecurity student.<br>
-I'm currently focused on the **Blue Team** path and foundations of cybersecurity, while exploring **Red Team/Pentesting** techniques to understand both sides.<br>
-I'm also building projects to sharpen my practical skills, currently learning **Go** through one of them, and keeping up with trends in **cybersecurity** and **AI**.
+Self-directed cybersecurity learner focused on Blue Team operations and defensive security fundamentals.<br>
+Building hands-on projects to strengthen practical skills, while exploring Red Team techniques to understand offensive methodologies.<br>
+Currently learning **Go** through security-focused projects and following developments in **cybersecurity** and **AI**.
 
 ---
 
 ### $ git status
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornelasdev&repo=mitre-explorer&theme=chartreuse-dark&hide_border=false)](https://www.github.com/dornelasdev/mitre-explorer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornelasdev&repo=mitre-explorer&theme=chartreuse-dark&hide_border=false&v=1)](https://www.github.com/dornelasdev/mitre-explorer)
 
-- Improving my cybersecurity workflow with hands-on labs on <a href="https://tryhackme.com/p/dornelasdev">TryHackMe<img src="https://cdn.simpleicons.org/tryhackme/white" width="20"/> </a>
+- 🔎 Practicing detection, analysis, and incident investigation through hands-on labs on <a href="(https://tryhackme.com/p/dornelasdev)">TryHackMe</a><img src="https://cdn.simpleicons.org/tryhackme/white" width="20" style="vertical-align: middle; margin-left: 6px;" />
+**140+ rooms completed (Pre-Security, Security 101, SOC L1), including Red Team fundamentals.**
+- 🛠️ Applying detection and analysis concepts through custom tools and hands-on workflows.
 
 ---
 
 ### $ cat stack.txt
-
+#### Languages
 <p align="left">
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -56,7 +58,7 @@ I'm also building projects to sharpen my practical skills, currently learning **
 
 </p>
 
-### $ cat .stack.txt
+#### Security Tools
 <p>
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
@@ -71,6 +73,12 @@ I'm also building projects to sharpen my practical skills, currently learning **
     width="35"
 />
 <img
+    src="https://cdn.simpleicons.org/wireshark"
+    alt="Wireshark"
+    title="Wireshark"
+    width="35"
+/>
+<img
     src="https://cdn.simpleicons.org/splunk/white"
     alt="Splunk"
     title="Splunk"
@@ -82,17 +90,9 @@ I'm also building projects to sharpen my practical skills, currently learning **
     title="Metasploit"
     width="35"
 />
-<img
-    src="https://cdn.simpleicons.org/wireshark"
-    alt="Wireshark"
-    title="Wireshark"
-    width="35"
-/>
-<img
-    src="https://cdn.simpleicons.org/burpsuite"
-    alt="Burp Suite"
-    title="Burp Suite"
-    width="35"
-/>
-
 </p>
+
+### $ cat methodology.txt
+
+**MITRE ATT&CK** (threat mapping) • **NIST CSF** (security framework) • **OWASP** (web security principles)
+
